@@ -1,0 +1,14 @@
+section {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+h1 {
+  color: aquamarine;
+}
+
+.container-2 {
+  width: 50vw;
+  background-color: aquamarine;
+}
